@@ -1,0 +1,23 @@
+Missing Image Files Report
+==================================================
+
+IMG_1407:
+  - Thumbnail: pics/thumbs/img_1407_320.jpg (MISSING)
+  - Full-size: pics/full/img_1407_1600.jpg (MISSING)
+
+IMG_1415:
+  - Thumbnail: pics/thumbs/img_1415_320.jpg (MISSING)
+  - Full-size: pics/full/img_1415_1600.jpg (MISSING)
+
+IMG_1446:
+  - Thumbnail: pics/thumbs/img_1446_320.jpg (MISSING)
+  - Full-size: pics/full/img_1446_1600.jpg (MISSING)
+
+IMG_1459:
+  - Thumbnail: pics/thumbs/img_1459_320.jpg (MISSING)
+  - Full-size: pics/full/img_1459_1600.jpg (MISSING)
+
+IMG_1462:
+  - Thumbnail: pics/thumbs/img_1462_320.jpg (MISSING)
+  - Full-size: pics/full/img_1462_1600.jpg (MISSING)
+
