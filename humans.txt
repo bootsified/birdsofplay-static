@@ -1,0 +1,6 @@
+/* DESIGN & BUILD */
+    Team:       Boots
+    URL:        http://boots.media
+    Contact:    hello [at] boots.media
+    Twitter:    @bootsified
+    From:       Dallas, TX
